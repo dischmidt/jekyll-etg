@@ -2,25 +2,84 @@
 <section id="contact">
 	<div class="inner">
 		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
-				<div class="field half first">
-					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
-				</div>
-				<div class="field half">
-					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
-				</div>
-				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
-				</ul>
-			</form>
+<!-- Jotform -->
+
+<script>window.enableEventObserver=true</script>
+<script src="https://cdn02.jotfor.ms/static/prototype.forms.js?v=3.3.59848" type="text/javascript"></script>
+<script src="https://cdn03.jotfor.ms/static/jotform.forms.js?v=3.3.59848" type="text/javascript"></script>
+<script src="https://cdn01.jotfor.ms/js/punycode-1.4.1.min.js?v=3.3.59848" type="text/javascript" defer></script>
+<script src="https://cdn02.jotfor.ms/js/vendor/smoothscroll.min.js?v=3.3.59848" type="text/javascript"></script>
+<script src="https://cdn03.jotfor.ms/js/errorNavigation.js?v=3.3.59848" type="text/javascript"></script>
+<script type="text/javascript">	JotForm.newDefaultTheme = true;
+	JotForm.extendsNewTheme = false;
+	JotForm.singleProduct = false;
+	JotForm.newPaymentUIForNewCreatedForms = false;
+	JotForm.texts = {"confirmEmail":"E-mail does not match","pleaseWait":"Please wait...","validateEmail":"You need to validate this e-mail","confirmClearForm":"Are you sure you want to clear the form","lessThan":"Your score should be less than or equal to","incompleteFields":"There are incomplete required fields. Please complete them.","required":"This field is required.","requireOne":"At least one field required.","requireEveryRow":"Every row is required.","requireEveryCell":"Every cell is required.","email":"Enter a valid e-mail address","alphabetic":"This field can only contain letters","numeric":"This field can only contain numeric values","alphanumeric":"This field can only contain letters and numbers.","cyrillic":"This field can only contain cyrillic characters","url":"This field can only contain a valid URL","currency":"This field can only contain currency values.","fillMask":"Field value must fill mask.","uploadExtensions":"You can only upload following files:","noUploadExtensions":"File has no extension file type (e.g. .txt, .png, .jpeg)","uploadFilesize":"File size cannot be bigger than:","uploadFilesizemin":"File size cannot be smaller than:","gradingScoreError":"Score total should only be less than or equal to","inputCarretErrorA":"Input should not be less than the minimum value:","inputCarretErrorB":"Input should not be greater than the maximum value:","maxDigitsError":"The maximum digits allowed is","minCharactersError":"The number of characters should not be less than the minimum value:","maxCharactersError":"The number of characters should not be more than the maximum value:","freeEmailError":"Free email accounts are not allowed","minSelectionsError":"The minimum required number of selections is ","maxSelectionsError":"The maximum number of selections allowed is ","pastDatesDisallowed":"Date must not be in the past.","dateLimited":"This date is unavailable.","dateInvalid":"This date is not valid. The date format is {format}","dateInvalidSeparate":"This date is not valid. Enter a valid {element}.","ageVerificationError":"You must be older than {minAge} years old to submit this form.","multipleFileUploads_typeError":"{file} has invalid extension. Only {extensions} are allowed.","multipleFileUploads_sizeError":"{file} is too large, maximum file size is {sizeLimit}.","multipleFileUploads_minSizeError":"{file} is too small, minimum file size is {minSizeLimit}.","multipleFileUploads_emptyError":"{file} is empty, please select files again without it.","multipleFileUploads_uploadFailed":"File upload failed, please remove it and upload the file again.","multipleFileUploads_onLeave":"The files are being uploaded, if you leave now the upload will be cancelled.","multipleFileUploads_fileLimitError":"Only {fileLimit} file uploads allowed.","dragAndDropFilesHere_infoMessage":"Drag and drop files here","chooseAFile_infoMessage":"Choose a file","maxFileSize_infoMessage":"Max. file size","generalError":"There are errors on the form. Please fix them before continuing.","generalPageError":"There are errors on this page. Please fix them before continuing.","wordLimitError":"Too many words. The limit is","wordMinLimitError":"Too few words.  The minimum is","characterLimitError":"Too many Characters.  The limit is","characterMinLimitError":"Too few characters. The minimum is","ccInvalidNumber":"Credit Card Number is invalid.","ccInvalidCVC":"CVC number is invalid.","ccInvalidExpireDate":"Expire date is invalid.","ccInvalidExpireMonth":"Expiration month is invalid.","ccInvalidExpireYear":"Expiration year is invalid.","ccMissingDetails":"Please fill up the credit card details.","ccMissingProduct":"Please select at least one product.","ccMissingDonation":"Please enter numeric values for donation amount.","disallowDecimals":"Please enter a whole number.","restrictedDomain":"This domain is not allowed","ccDonationMinLimitError":"Minimum amount is {minAmount} {currency}","requiredLegend":"All fields marked with * are required and must be filled.","geoPermissionTitle":"Permission Denied","geoPermissionDesc":"Check your browser's privacy settings.","geoNotAvailableTitle":"Position Unavailable","geoNotAvailableDesc":"Location provider not available. Please enter the address manually.","geoTimeoutTitle":"Timeout","geoTimeoutDesc":"Please check your internet connection and try again.","selectedTime":"Selected Time","formerSelectedTime":"Former Time","cancelAppointment":"Cancel Appointment","cancelSelection":"Cancel Selection","noSlotsAvailable":"No slots available","slotUnavailable":"{time} on {date} has been selected is unavailable. Please select another slot.","multipleError":"There are {count} errors on this page. Please correct them before moving on.","oneError":"There is {count} error on this page. Please correct it before moving on.","doneMessage":"Well done! All errors are fixed.","invalidTime":"Enter a valid time","doneButton":"Done","reviewSubmitText":"Review and Submit","nextButtonText":"Next","prevButtonText":"Previous","seeErrorsButton":"See Errors","notEnoughStock":"Not enough stock for the current selection","notEnoughStock_remainedItems":"Not enough stock for the current selection ({count} items left)","soldOut":"Sold Out","justSoldOut":"Just Sold Out","selectionSoldOut":"Selection Sold Out","subProductItemsLeft":"({count} items left)","startButtonText":"START","submitButtonText":"Submit","submissionLimit":"Sorry! Only one entry is allowed. <br> Multiple submissions are disabled for this form.","reviewBackText":"Back to Form","seeAllText":"See All","progressMiddleText":"of","fieldError":"field has an error.","error":"Error"};
+	JotForm.newPaymentUI = true;
+	JotForm.originalLanguage = "en";
+	JotForm.isFormViewTrackingAllowed = true;
+	JotForm.highlightInputs = false;
+	JotForm.replaceTagTest = true;
+	JotForm.uploadServerURL = "https://upload.jotform.com/upload";
+	JotForm.clearFieldOnHide="disable";
+	JotForm.submitError="jumpToFirstError";
+	JotForm.isFullSource = true;
+
+	JotForm.init(function(){
+	/*INIT-START*/
+if (window.JotForm && JotForm.accessible) $('input_13').setAttribute('tabindex',0);
+      JotForm.alterTexts({"alphabetic":"This field can only contain letters","alphanumeric":"This field can only contain letters and numbers.","confirmClearForm":"Are you sure you want to clear the form","confirmEmail":"E-mail does not match","email":"Enter a valid e-mail address","incompleteFields":"Please complete required (*) fields.","lessThan":"Your score should be less than","numeric":"This field can only contain numeric values","pleaseWait":"Please wait...","required":"This field is required.","uploadExtensions":"You can only upload following files:","uploadFilesize":"File size cannot be bigger than:"});
+	/*INIT-END*/
+	});
+
+   setTimeout(function() {
+JotForm.paymentExtrasOnTheFly([null,null,null,null,null,null,null,null,{"name":"submit8","qid":"8","text":"SUBMIT","type":"control_button"},null,null,{"description":"","name":"name","qid":"11","text":"Name","type":"control_fullname"},{"description":"","name":"yourEmail","qid":"12","subLabel":"","text":"Email","type":"control_email"},{"description":"","mde":"No","name":"yourMessage","qid":"13","subLabel":"","text":"Message","type":"control_textarea","wysiwyg":"Disable"}]);}, 20); 
+</script>
+</style>
+
+<form class="jotform-form" onsubmit="return typeof testSubmitFunction !== 'undefined' && testSubmitFunction();" action="https://eu-submit.jotform.com/submit/243623732580355" method="post" name="form_243623732580355" id="243623732580355" accept-charset="utf-8" autocomplete="on"><input type="hidden" name="formID" value="243623732580355" /><input type="hidden" id="JWTContainer" value="" /><input type="hidden" id="cardinalOrderNumber" value="" /><input type="hidden" id="jsExecutionTracker" name="jsExecutionTracker" value="build-date-1735392276526" /><input type="hidden" id="submitSource" name="submitSource" value="unknown" /><input type="hidden" id="buildDate" name="buildDate" value="1735392276526" /><input type="hidden" name="uploadServerUrl" value="https://upload.jotform.com/upload" /><input type="hidden" name="eventObserver" value="1" />
+  <div role="main" class="form-all">
+      
+        <div id="cid_11" class="jf-required" data-layout="full">
+          <div class="field half first" data-wrapper-react="true"><label for="first_11">First Name</label><input type="text" id="first_11" name="q11_name[first]" class="form-textbox validate[required]" data-defaultvalue="" autoComplete="section-input_11 given-name" size="10" data-component="first" aria-labelledby="label_11 sublabel_11_first" required="" value="" /></div>
+        <div class="field half"><label for="last_11">Last Name</label><input type="text" id="last_11" name="q11_name[last]" class="form-textbox validate[required]" data-defaultvalue="" autoComplete="section-input_11 family-name" size="15" data-component="last" aria-labelledby="label_11 sublabel_11_last" required="" value="" /></div>
+        </div>
+      
+      <label class="" id="label_12" for="input_12" aria-hidden="false"> Email </label>
+        <div id="cid_12" class="field" data-layout="half"> <input type="email" id="input_12" name="q12_yourEmail" class="form-textbox validate[Email]" data-defaultvalue="" autoComplete="section-input_12 email" maxLength="120" data-component="email" aria-labelledby="label_12" value="" /> </div>
+      
+      <label class="" id="label_13" for="input_13" aria-hidden="false"> Message<span class="form-required">*</span> </label>
+        <div id="cid_13" class="jf-required" data-layout="full">
+          <div class="field"><textarea id="input_13" class="form-textarea validate[required]" name="q13_yourMessage" style="" data-component="textarea" required="" aria-labelledby="label_13"></textarea>
+            </div>
+        </div>
+      
+                
+          <ul class="actions">
+              <li><button id="input_8" type="submit" class="special submit-button jf-form-buttons jsTest-submitField legacy-submit" data-component="button" data-content="">Send Message</button></li>
+              <li><input type="reset" value="Clear" /></li>
+          </ul>
+      
+  </div>
+  <script>
+    JotForm.showJotFormPowered = "old_footer";
+  </script>
+  <script>
+    JotForm.poweredByText = "Powered by Jotform";
+  </script><input type="hidden" class="simple_spc" id="simple_spc" name="simple_spc" value="243623732580355" />
+  <script type="text/javascript">
+    var all_spc = document.querySelectorAll("form[id='243623732580355'] .si" + "mple" + "_spc");
+    for (var i = 0; i < all_spc.length; i++)
+    {
+      all_spc[i].value = "243623732580355-243623732580355";
+    }
+  </script>
+</form><script type="text/javascript">JotForm.ownerView=true;</script><script type="text/javascript">JotForm.forwardToEu=true;</script><script type="text/javascript">JotForm.isNewSACL=true;</script>
+
+
+<!-- Jotform -->
 		</section>
+
 		<section class="split">
 			<section>
 				<div class="contact-method">
@@ -79,7 +138,7 @@
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li><a href="impressum.html">Impressum</a></li>
 				<li>Jekyll integration: <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a></li>
 
 			</ul>

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Management
+description: Our Experience
+image: assets/images/portrait_dirk_schmidt-waerdt_garden.jpg
 nav-menu: true
 ---
 

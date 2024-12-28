@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title:  EuroTrade Gateway UG (hb)
+subtitle: Market Access Management
+email: contact@eurotrade-gateway.com
+description: VAT | Customs | EPR | Packaging | LUCID | WEEE | Batteries | Sales Report Analysis 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://eurotrade-gateway.com
+author: Dirk Schmidt-Waerdt, CEO of EuroTrade Gateway UG (hb)
+street_address: EUROTEC-Ring 15
+city: Moers
+state: NRW
+zip_code: 47445
+country: Germany
+phone: +49 179 4930099
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/dischmidt
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/dirk-schmidt-market-access-europe
+  Twitter: https://twitter.com/ecommerceEU
+  X: https://x.com/ecommerceEU
   Facebook:
   Slack:
 
@@ -36,9 +36,16 @@ markdown: kramdown
 
 sass:
   style: compressed
+  quiet_deps: true    # get rid of deprecation warnings
+
 
 exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+- deploy.sh
+- "*.bak"
+
+collections:
+ - notiles

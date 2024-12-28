@@ -6,4 +6,14 @@
 	<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
+        <!-- START Formbricks Surveys -->
+        <script type="text/javascript">
+        {% if jekyll.environment == "production" %}
+        !function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://formbricks.eurotrade.dev/api/packages/website";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e),setTimeout(function(){window.formbricks.init({environmentId: "",  apiHost: "cm582gxg10007hyc86p8v01h4"})},500)}();
+        {% else %}
+        !function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://formbricks.eurotrade.dev/api/packages/website";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e),setTimeout(function(){window.formbricks.init({environmentId: "cm582gxfp0003hyc8kt5x2ekj",  apiHost: "https://formbricks.eurotrade.dev"})},500)}();
+        {% endif %}
+        </script>
+        <!-- END Formbricks Surveys -->
+        
 </head>
