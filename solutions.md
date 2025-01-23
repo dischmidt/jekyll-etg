@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: landing
 title: Solutions
 description: Our Services
 image: assets/images/pixabay_e-commerce_parcels_on_belt_1280.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
@@ -12,401 +13,259 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Elements</h1>
-		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
+<h2 id="content">Standardised Yet Tailored</h2>
+<p>Although many aspects of compliance can be standardised, each business’s unique situation necessitates a customised service package. Fragmenting a mandatory checklist for engaging with German consumers and ensuring ongoing compliance results in an unclear list. We aim at transparency and trust, not on ambigiouty.</p>
+<p>EuroTrade Gateway UG (hb) has thus opted to provide packages by country. We have categorised countries into groups to outline the essential steps for registration, reporting, and other compliance-related tasks, including taxation and extended producer responsibilities. We are happy to clarify our pricing and create customised offers upon request.
+</p>
+<p><i>If you are not sure where your business resides or what its jurisdictions is, we define residency by the residendy of the mangement - the legal representative, managing director or CEO.</i></p>
 </div>
 
-<hr class="major" />
+</section>
+<section id="two">
+<div class="inner">
+		<header class="major">
+		<h2>Our Packages for VAT Registration</h2>
+		</header>
 
-<!-- Elements -->
-<h2 id="elements">Elements</h2>
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
+	<div class="12u 12u$(medium)">
+<table border="1" cellpadding="10" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Package Title</th>
+            <th>EU Residency Package</th>
+            <th>UK & Third Country Package</th>
+            <th>US Tax Residency Package</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Description</strong></td>
+            <td>
+                For businesses and management residing in one of the 27 EU countries or EEA countries (Norway, Iceland, Switzerland, Liechtenstein). A postal address within these countries suffices.
+            </td>
+            <td>
+                Designed for businesses outside the EU/EEA, such as those in the UK and other third countries. Requires a postal address in the EU/EEA, with a designated receiving agent. Includes our service to act as a receiving agent for 12 months.
+            </td>
+            <td>
+                Tailored for businesses or management based in the USA. Requires a US Tax Residency Certificate (IRS Form 6166). Our package includes support to mitigate delays from awaiting this certificate. Services provided in collaboration with licensed IRS Tax Agents.
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Included Work & Documents</strong></td>
+            <td>
+                <ul>
+                    <li>VAT registration and VAT ID</li>
+                    <li>Supplement forms for corporations, partnerships, and e-commerce</li>
+                    <li>Permit for unencrypted emails</li>
+                    <li>Power of attorney for a receiving agent (EU/EEA)</li>
+                    <li>Assistance with German tax reporting portal registration (Zoom)</li>
+                    <li>Informative videos on VAT reporting and the ELSTER portal</li>
+                    <li>Identification of the responsible tax office</li>
+                    <li>Forms ready to sign</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    Includes all EU Residency Package services, and additionally:
+                    <li>Picking up the activation code for online VAT reporting</li>
+                    <li>Service as receiving agent for the first 12 months</li>
+                    <li>Option to extend receiving agent services annually</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    Includes all UK & Third Country Package services, and additionally:
+                    <li>Support in obtaining a US Tax Residency Certificate (IRS Form 6166 via Form 8802)</li>
+                    <li>Contracting licensed IRS Tax Agent</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Price (USD)</strong></td>
+            <td>260 USD (one-time)</td>
+            <td>465 USD (first year)<br>180 USD (annually recurring if necessary)</td>
+            <td>725 USD (first year)<br>180 USD (annually recurring if necessary)</td>
+        </tr>
+        <tr>
+            <td><strong>Price (EUR)</strong></td>
+            <td>240 EUR (one-time)</td>
+            <td>505 EUR (first year)<br>160 EUR (annually recurring if necessary)</td>
+            <td>670 EUR (first year)<br>160 EUR (annually recurring if necessary)</td>
+        </tr>
+        <tr>
+            <td><strong>Express Service (optionally)</strong></td>
+            <td>120 USD / 110 EUR</td>
+            <td>120 USD / 110 EUR</td>
+            <td>260 USD / 240 EUR</td>
+        </tr>
+        <tr>
+            <td><strong>Optional Service</strong></td>
+            <td></td>
+            <td>EORI Registration at customs for 70 USD (65 EUR)</td>
+            <td>EORI Registration at customs for 70 USD (65 EUR)</td>
+        </tr>
+        <tr>
+            <td><strong>Payment Options</strong></td>
+            <td>
+                <a href="https://www.paypal.com/ncp/payment/RS4KC92MZLK62" class="icon fa-paypal"><span class="label">Paypal</span></a><br><img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
+            </td>
+            <td>
+                <a href="https://www.paypal.com/ncp/payment/EBTDNRQYEMEAN" class="icon fa-paypal"><span class="label">Paypal</span></a><br><img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
+            </td>
+            <td>
+                <a href="https://www.paypal.com/ncp/payment/9HYAKKCRSLMSJ" class="icon fa-paypal"><span class="label">Paypal</span></a><br><img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Check Out</strong></td>
+            <td>
+                <form action="https://www.paypal.com/ncp/payment/RS4KC92MZLK62" method="post" target="_top" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+                <input class="pp-RS4KC92MZLK62" type="submit" value="Buy Now"></form>
+            </td>
+            <td>
+                <form action="https://www.paypal.com/ncp/payment/EBTDNRQYEMEAN" method="post" target="_top" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+                <input class="pp-EBTDNRQYEMEAN" type="submit" value="Buy Now"></form>
+            </td>
+            <td>
+                <form action="https://www.paypal.com/ncp/payment/9HYAKKCRSLMSJ" method="post" target="_top" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+                <input class="pp-9HYAKKCRSLMSJ" type="submit" value="Buy Now"></form>
+            </td>
+        </tr>
 
-<!-- Text stuff -->
-<h3>Text</h3>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
-<hr />
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>
-<h4>Heading Level 4</h4>
-<hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+    </tbody>
+</table>
 
-<!-- Lists -->
-<h3>Lists</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
-
-		<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
-
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
-		</ul>
-
-	</div>
-	<div class="6u$ 12u$(small)">
-
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
-
-		<h4>Icons</h4>
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-		</ul>
-		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
-
-	</div>
-</div>
-
-<h4>Definition</h4>
-<dl>
-	<dt>Item1</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item2</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item3</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-</dl>
-
-<h4>Actions</h4>
-<ul class="actions">
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions small">
-	<li><a href="#" class="button special small">Small</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special">Default</a></li>
-			<li><a href="#" class="button">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small">Small</a></li>
-			<li><a href="#" class="button small">Small</a></li>
-		</ul>
-	</div>
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special fit">Default</a></li>
-			<li><a href="#" class="button fit">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small fit">Small</a></li>
-			<li><a href="#" class="button small fit">Small</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
-
-<!-- Table -->
-<h3>Table</h3>
-
-<h4>Default</h4>
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
-
-<h4>Alternate</h4>
-<div class="table-wrapper">
-	<table class="alt">
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
 
 </div>
-<div class="6u$ 12u$(medium)">
-
-<!-- Buttons -->
-<h3>Buttons</h3>
-<ul class="actions">
-	<li><a href="#" class="button special">Special</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button big">Big</a></li>
-	<li><a href="#" class="button">Default</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special big">Big</a></li>
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button special small">Small</a></li>
-</ul>
-<ul class="actions fit">
-	<li><a href="#" class="button special fit">Fit</a></li>
-	<li><a href="#" class="button fit">Fit</a></li>
-</ul>
-<ul class="actions fit small">
-	<li><a href="#" class="button special fit small">Fit + Small</a></li>
-	<li><a href="#" class="button fit small">Fit + Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special icon fa-search">Icon</a></li>
-	<li><a href="#" class="button icon fa-download">Icon</a></li>
-</ul>
-<ul class="actions">
-	<li><span class="button special disabled">Special</span></li>
-	<li><span class="button disabled">Default</span></li>
-</ul>
-
-<!-- Form -->
-<h3>Form</h3>
-
-<form method="post" action="#">
-	<div class="row uniform">
-		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
-		</div>
-		<div class="6u$ 12u$(xsmall)">
-			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<div class="select-wrapper">
-				<select name="demo-category" id="demo-category">
-					<option value="">- Category -</option>
-					<option value="1">Manufacturing</option>
-					<option value="1">Shipping</option>
-					<option value="1">Administration</option>
-					<option value="1">Human Resources</option>
-				</select>
-			</div>
-		</div>
-		<!-- Break -->
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-			<label for="demo-priority-low">Low</label>
-		</div>
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-normal" name="demo-priority">
-			<label for="demo-priority-normal">Normal</label>
-		</div>
-		<div class="4u$ 12u$(small)">
-			<input type="radio" id="demo-priority-high" name="demo-priority">
-			<label for="demo-priority-high">High</label>
-		</div>
-		<!-- Break -->
-		<div class="6u 12u$(small)">
-			<input type="checkbox" id="demo-copy" name="demo-copy">
-			<label for="demo-copy">Email me a copy</label>
-		</div>
-		<div class="6u$ 12u$(small)">
-			<input type="checkbox" id="demo-human" name="demo-human" checked>
-			<label for="demo-human">I am a human</label>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<ul class="actions">
-				<li><input type="submit" value="Send Message" class="special" /></li>
-				<li><input type="reset" value="Reset" /></li>
-			</ul>
-		</div>
-	</div>
-</form>
-
-<!-- Image -->
-<h3>Image</h3>
-
-<h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-	</div>
-</div>
-
-<h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-
-<!-- Box -->
-<h3>Box</h3>
-<div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
-</div>
-
-<!-- Preformatted Code -->
-<h3>Preformatted</h3>
-<pre><code>i = 0;
-
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';
-</code></pre>
-
-</div>
-</div>
-
 </div>
 </section>
+<section id="two">
+<div class="inner">
+		<header class="major">
+		<h2>Our Packages for EPR Registration and Services</h2>
+		</header>
 
+	<div class="12u 12u$(medium)">
+<table border="1" cellpadding="10" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Package Title</th>
+            <th>LUCID Package</th>
+            <th>WEEE</th>
+            <th>BattG</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Description</strong></td>
+            <td>
+                Mandatory for nearly everyone selling physical items to German consumers. Registration at the German Packaging Register (LUCID) is required, along with regular reporting of packaging quantities. EuroTrade Gateway UG is officially licensed as an Authorised Representative for LUCID.
+            </td>
+            <td>
+                Required for businesses importing electronics or electric equipment to Germany. This involves compliance with the Waste Electronics and Electric Equipment (WEEE) directive. EuroTrade Gateway UG (hb) offers representation but works with specialized agencies for initial registrations. Limited representation is provided for larger setups.
+            </td>
+            <td>
+                Importing electronics often involves batteries. If fewer than 100 items are imported, consider removing batteries before shipping to Germany. Battery disposal charges are low, but administrative fees are high, nearly equal to WEEE costs. Registration is essential for compliance with the German Battery Act (BattG).
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Included Work & Documents</strong></td>
+            <td>
+                <ul>
+                    <li>Live assistance for initial registration at the LUCID packaging register</li>
+                    <li>Authorised Representative services for the first year</li>
+                    <li>Contracting an appropriate disposal system participant (disposal charges passed on to the client)</li>
+                    <li>Reporting packaging amounts</li>
+                    <li>Final report for the following year</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Initial registration via specialized agencies</li>
+                    <li>Regular reporting to compliance agencies</li>
+                    <li>Representation for larger setups</li>
+                    <li>Consultation on disposal charges</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Initial registration</li>
+                    <li>Compliance consultation</li>
+                    <li>Coordination of disposal charges</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Price (USD)</strong></td>
+            <td>250 USD (first year, including representation; disposal charges excluded)</td>
+            <td>Starting from 980 USD (first year)</td>
+            <td>Starting from 900 EUR (first year)</td>
+        </tr>
+        <tr>
+            <td><strong>Price (EUR)</strong></td>
+            <td>230 EUR (first year, including representation; disposal charges excluded)</td>
+            <td>Starting from 980 USD (first year)</td>
+            <td>Starting from 900 EUR (first year)</td>
+        </tr>
+        <tr>
+            <td><strong>Processing Time</strong></td>
+            <td>Registration can be completed within a day.</td>
+            <td>Registration takes 8 to 12 weeks.</td>
+            <td>Registration takes 8 to 12 weeks. Strongly recommended to start BattG registration alongside WEEE registration.</td>
+        </tr>
+        <tr>
+            <td><strong>Paperwork</strong></td>
+            <td colspan="3">Due to compliance rules, for all services the exchanges of signed contract on paper with "wet" signatures is mandatory.</td>
+        </tr>
+            <tr>
+            <td><strong>Check Out</strong></td>
+            <td>
+                <form action="https://www.paypal.com/ncp/payment/PSYZYFZ6VWTR6" method="post" target="_top" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
+                <input class="special pp-PSYZYFZ6VWTR6" type="submit" value="Buy Now"></form>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
+                <tr>
+            <td><strong>Payment Options</strong></td>
+            <td>
+                <a href="https://www.paypal.com/ncp/payment/PSYZYFZ6VWTR6" class="icon fa-paypal"><span class="label">Paypal</span></a><br><img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg" alt="cards">
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
+
+            <tr>
+            <td><strong>Disposal Charges</strong></td>
+            <td>
+                <ul class="actions">
+                    <li><a href="https://form.jotform.com/242066446166054" class="button" target="_blank">Get An Estimate</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul class="actions">
+                    <li><a href="https://form.jotform.com/242153999461062" class="button" target="_blank">Get An Estimate</a></li>
+                </ul>
+            </td>
+            <td>
+                <ul class="actions">
+                    <li><a href="https://form.jotform.com/242153999461062" class="button" target="_blank">Get An Estimate</a></li>
+                </ul>
+            </td>
+        </tr>
+
+        
+    </tbody>
+</table>
+
+    </div>
 </div>
+
+
+

@@ -6,6 +6,8 @@ image: assets/images/pixabay_laptop_welcome_to_amazon.jpg
 nav-menu: true
 ---
 
+
+
 <!-- Main -->
 <div id="main">
 
@@ -33,7 +35,7 @@ nav-menu: true
 				<header class="major">
 					<h3>CE Marking</h3>
 				</header>
-	            <p>CE marking indicates that a product complies with EU safety, health, and environmental protection standards. It must appear on products sold in the EU to ensure consumer safety and streamline market access. The manufacturer or authorized representative is responsible for placing the CE marking. Compliance is crucial for successful entry into EU markets. UKCA is the eqquivalent mark for prodcuts sold in the United Kingdom.  ui</p>
+	            <p>CE marking indicates that a product complies with EU safety, health, and environmental protection standards. It must appear on products sold in the EU to ensure consumer safety and streamline market access. The manufacturer or authorized representative is responsible for placing the CE marking. Compliance is crucial for successful entry into EU markets. UKCA is the eqquivalent mark for prodcuts sold in the United Kingdom. </p>
 	            <p>Most of our customers are retailers whose goods already have the CE mark affixed by the manufacturer.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
@@ -54,7 +56,7 @@ nav-menu: true
 				<p>Even if a sale is already possible under national law without the VAT ID already being available, this encounters considerable problems in reality and on trading platforms. In fact, a VAT ID must be available before the sale can begin. Depending on national legislation, a fiscal representation or receiving agent residing in the EU must be appointed.</p>
 </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+				<li><button class="button" onClick='formbricks.track("show_video_big_pic_vat");' id="video_big_pic_vat">LEARN MORE</button></li>
 				</ul>
 			</div>
 		</div>
@@ -70,7 +72,7 @@ nav-menu: true
 				</header>
 				<p>International e-merchants shipping to the EU should consider customs compliance and EORI registration (Economic Operators Registration and Identification). Freight forwarders typically handle customs declarations and import VAT. Although not mandatory, having your own EORI can facilitate tax deductions and streamline the import process. Note that businesses from non-EU countries may not have an entitlement to EORI issuance.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+				<li><button class="button" onClick='formbricks.track("show_video_eori");' id="video_eori">LEARN MORE</button></li>
 				</ul>
 			</div>
 		</div>
@@ -87,8 +89,8 @@ nav-menu: true
 				<p>The European Packaging Directive establishes regulations for packaging waste management across EU countries. While there is a shared framework, each country has unique administrative requirements, particularly in Germany. International e-merchants entering the EU market must comply with these local regulations to avoid fines.</p> 
 				<p>EuroTrade Gateway UG (hb) acts as an authorized representative for the German packaging register LUCID and connects clients with disposal system participants, ensuring compliance with the German Packaging Act for reporting, record keeping and recycling obligations. Our partners operate in several EU countries.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<li><button class="button" onClick='formbricks.track("show_video_eori");' id="video_eori">LEARN MORE</button></li>
+		    	</ul>
 			</div>
 		</div>
 	</section>
@@ -117,9 +119,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Compliance</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Ensure your business complies with European market regulations effortlessly with EuroTrade Gateway UG. From VAT registration to packaging (LUCID), electronics (WEEE), and battery compliance (BattG), our tailored services simplify complex requirements. As your trusted partner, we handle the administrative burdens so you can focus on growth. Contact us today and let us provide the solutions you need to succeed in Germany and the EU!</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="solutions.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section>

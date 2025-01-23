@@ -9,11 +9,34 @@
         <!-- START Formbricks Surveys -->
         <script type="text/javascript">
         {% if jekyll.environment == "production" %}
-        !function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://formbricks.eurotrade.dev/api/packages/website";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e),setTimeout(function(){window.formbricks.init({environmentId: "",  apiHost: "cm582gxg10007hyc86p8v01h4"})},500)}();
+	<!-- formbricks -->
+        !function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://formbricks.eurotrade.dev/api/packages/website";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e),setTimeout(function(){window.formbricks.init({environmentId: "cm582gxg10007hyc86p8v01h4",  apiHost: "https://formbricks.eurotrade.dev"})},500)}();
+        <!-- END Formbricks Surveys -->
+	<!-- Google Analytics tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VTCB995S0H"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-VTCB995S0H');
+    </script>
         {% else %}
+        <!-- formbrick for development -->
         !function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://formbricks.eurotrade.dev/api/packages/website";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e),setTimeout(function(){window.formbricks.init({environmentId: "cm582gxfp0003hyc8kt5x2ekj",  apiHost: "https://formbricks.eurotrade.dev"})},500)}();
+        <!-- END Formbricks Surveys -->
+        <!-- no gtag.js Google for development -->
         {% endif %}
         </script>
         <!-- END Formbricks Surveys -->
-        
+  <style>
+    .fa-x{
+        font-family:sans-serif;
+        }
+    .fa-x::before{
+        content:"𝕏";
+        #font-size:1.2em;
+        }
+  </style>
 </head>
+
